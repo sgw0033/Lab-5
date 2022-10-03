@@ -1,0 +1,6 @@
+Sarah Grace Whitt Reflection Questions Lab 5:
+
+Currently I manage my documents and code by saving to my computer since I use the terminal on Mac. My publishible work
+is now being saved on GitHub for the last few labs and for future work. The capstone project 1 is saved on my computer
+and the second is on GitHub. It would stand up to reproducability on GitHub because it is commented. Non-reproducable research 
+sets back ressearch because everyone has to start from scratch and no one can build upon already discovered research. 
