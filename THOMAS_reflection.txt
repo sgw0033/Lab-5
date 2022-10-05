@@ -1,0 +1,21 @@
+Would it stand up to a reproducibility test?
+
+I think my older documents and code would not stand up to a reproducility 
+test. My first code and README documents did not have any commentary and 
+were not well documented at all. My more recent projects have improved 
+through the use of commentary in programs and markdown formatting in 
+github. I think these recent projects would better stand up to a 
+reproducibility test.
+
+How do you think non-reproducible research affects computational biology 
+and informatics?
+
+I think non-reproducible research harms computational biology and 
+informatics. If good research has been done, it would be awesome if this 
+research is reproducible and could be used in similar future projects. 
+
+What about in your specific field of study?
+
+I think non-reproducible research also harms the genetic field. 
+Non-reproducible research in genetics is extremely unhelpful. If a clever 
+code for running sequences is created, this would be best if reproducible.
