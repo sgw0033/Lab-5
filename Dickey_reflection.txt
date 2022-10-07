@@ -1,0 +1,15 @@
+From what I have learned from this class, the best way to manage and document
+code is by making sure that I include comments and README's for everything
+that I do so that my work is easy to follow along and other people would be
+able to do the exact same thing from following my directions. I have learned 
+that one of the most important things in code is making sure that other people 
+can clearly  follow along and be able to perform the same thing by following
+our directions. All of the stuff completed in this class should be able to
+ stand up to a reproducibility test since we are explaining everything that
+ we do. I think non-reversible research contributes to computational biology
+ and informatics in a negative way because if you don't know where the answer
+ or reasoning came from, then you don't know what to fix or how to fix a problem
+ since you dont know where it came from. This goes for any type or information
+ in any field of biology, I think everythin needs to be clearly backed up and
+ sourced so people can choose if they agree or disagree based on what they know
+ from the information and facts provided.
